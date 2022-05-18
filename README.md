@@ -1,10 +1,9 @@
-# h1 Heading
-## h2 heading
-###### h3 heading
+# **ABOUT ME** 
+### *I guess you are here because you want to know a bit about me.*
+### *I am not that good at talking about myself, but i will give a short explanation about myself.*
 
-## Horizontal rules
 
-**This is bold text**
-*This text is italicized*
-	~~This was mistaken text~~
-  **This text is _extremely_ important**
+
+
+
+
