@@ -1,6 +1,8 @@
-# The largest heading
-## The second largest heading
-###### The smallest heading
+# h1 Heading
+## h2 heading
+###### h3 heading
+
+## Horizontal rules
 
 **This is bold text**
 *This text is italicized*
