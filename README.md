@@ -1,7 +1,16 @@
 #  ***NEW LOGO FOR OUR WEBSITE***  
-### *This logo was tested by Meera & Isabelle.*
 
 
+<html>
+   <head>
+      <link rel = "stylesheet" href = "style.css" type = "text/css" />
+   </head>
+   
+   <body>
+      <h1>Welcome to AV Archives</h1>
+      <h2>Hello!!!!!</h2>
+   </body>
+</html>
 
 
 
